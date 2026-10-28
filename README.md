@@ -26,4 +26,4 @@ https://github.com/mkk990725/tongping-release/releases/latest/download/source.js
 
 ## 版本
 
-当前发布：**0.2.0（build 3）**，见 [Releases](https://github.com/mkk990725/tongping-release/releases)。
+当前发布：**0.2.4（build 7）**，见 [Releases](https://github.com/mkk990725/tongping-release/releases)。
